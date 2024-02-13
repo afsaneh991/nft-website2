@@ -1,0 +1,180 @@
+
+.search-input{
+background-color: white;
+width: 250px;
+display:flex;
+height: 15px;
+padding: 10px 30px;
+border: 3px solid #65ddfb;
+border-radius: 15px;
+margin-top: -40px;
+margin-left:50px;
+}
+.title-design{
+margin-left: 50px;
+color:yellow;
+}
+.nft-img-header{
+display: flex;
+justify-content: center;
+align-items:center;
+}
+img{
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0;
+}
+
+
+.container{
+  display: flex;
+  justify-content: flex-end;
+  color: #65ddfb;
+  padding-right:100px;
+}
+
+.item{
+color: #65ddfb;
+padding-left: 100px;
+font-style: italic;
+font-size: 30px;
+}
+
+.item1{
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 8px;
+
+}
+.item2{
+  border: 4px solid #65ddfb;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 15px;
+  background-color: #2e4052;
+}
+
+header{
+  background-color: #1F4959;
+  padding: 45px 0px;
+}
+
+body{
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+.nft-item{
+  width: 300px;
+  height: 300px;
+}
+
+
+.text{
+font-size: 36px;
+font-weight: bolder;
+color: #E7CC96;
+}
+.section{
+padding: 45px 0;
+}
+.h1{
+  font-size: 100px;
+  letter-spacing:-2px;
+  font-family: 'Creepster';
+  color: #132E35;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  color:#ef5839;
+  text-decoration: underline ;
+}
+a:hover,a:active{
+  color:#d4b44c;
+}
+
+.image-container{
+  margin: 0 auto;
+  width: 620px;
+  }
+
+  .image-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .image-container img {
+  /* Adjust as needed */
+    border-radius: 20px;
+    border: 8px solid  white;
+  }
+  .img-width{
+    width: 400px;
+  }
+
+
+.section3{
+  margin-top: 10px;
+  background-color: #69818D;
+  padding: 45px 0px;
+  color: white;
+}
+.feature-image{
+width: 300px;
+border-radius: 4.6px;
+
+}
+.section-two-image-container{
+display: flex;
+justify-content: space-between;
+}
+.h2-padding{
+  margin-left: 110px;
+  line-height: 25px;
+}
+.end{
+text-align: center;
+padding: 45px 0;
+color:#132E35;
+}
+.btn-dark{
+  background-color: #174875;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 10px;
+  display: inline-block;
+}
+.btn-light{
+  background-color: #769EC2;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 10px;
+  display: inline-block;
+
+}
+
+.description {
+  margin-top: 10px;
+}
+
+.description h3,.description p {
+  margin-bottom: 5px;
+}
+
+.description p {
+  line-height: 23px;
+}
+
+
+.search-container {
+  position: relative;
+  display: inline-block;
+}
